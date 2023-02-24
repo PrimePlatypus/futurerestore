@@ -1,7 +1,10 @@
-[submodule "tsschecker"]
-	path = external/tsschecker
-	url = https://github.com/1Conan/tsschecker.git
-	branch = iOS16
+
 [submodule "external/idevicerestore"]
 	path = external/idevicerestore
 	url = https://github.com/PrimePlatypus/idevicerestore.git
+[submodule "external/-f"]
+	path = external/-f
+	url = https://github.com/1Conan/tsschecker.git
+[submodule "external/tsschecker"]
+	path = external/tsschecker
+	url = https://github.com/1Conan/tsschecker.git
