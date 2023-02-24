@@ -1,6 +1,6 @@
 [submodule "idevicerestore"]
 	path = external/idevicerestore
-	url = https://github.com/PrimePlatypus/idevicerestore.git
+	url = https://github.com/futurerestore/idevicerestore.git
 	branch = main
 [submodule "tsschecker"]
 	path = external/tsschecker
